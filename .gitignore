@@ -1,0 +1,10 @@
+# infra
+infra/terraform.tfstate
+infra/terraform.tfstate.backup
+infra/.terraform.lock.hcl
+infra/.terraform/
+
+# src
+src/.vscode/
+src/lambdas/*/node_modules/
+src/lambdas/*/*.zip
