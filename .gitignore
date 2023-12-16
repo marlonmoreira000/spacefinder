@@ -8,3 +8,6 @@ infra/.terraform/
 src/.vscode/
 src/lambdas/*/node_modules/
 src/lambdas/*/*.zip
+
+# other
+.DS_Store
