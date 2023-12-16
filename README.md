@@ -6,6 +6,7 @@ This is an evolving project. The purpose of this project was to integrate a bunc
 - Cloud (AWS)
 - CICD (Github Actions)
 - IaC (Terraform)
+- Containerisation (Docker/K8)
 - Logging and Monitoring (Cloudwatch)
 - Authentication (Cognito)
 - etc ...
